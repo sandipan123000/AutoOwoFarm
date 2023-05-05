@@ -7,14 +7,14 @@ from webserver import keep_alive
 
 import os
 
-prefix = input(f'Enter Prefix: ')
-token = input(f'token: ')
+prefix = ('1069960733053431848 ')
+token = (MTA2OTk2MDczMzA1MzQzMTg0OA.GQRKpE.0kLRWMkid7pbxTF39SQEW3tEhyUhNTpDuzV-vQ)
 
 
 #---------------#
 
 bot = commands.Bot(command_prefix=prefix,
-                   help_command=None,
+                   help_command=$$,
                    case_insensitive=True,
                    self_bot=True)
 
